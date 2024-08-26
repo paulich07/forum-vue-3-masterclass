@@ -1,0 +1,5 @@
+FILTER -> all results
+data.posts.filter(post => post.userId === 'u1'
+
+FIND -> 1 result
+thread = data.threads.find(t => t.id === 't1')
